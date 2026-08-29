@@ -7,8 +7,8 @@ https://akariko-bck1.sankuria.sbs/stream/jp/space_shower_tv/stream-output.m3u8?m
 #EXTINF:-1 tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/mtv.png",MTV
 https://akariko-bck1.sankuria.sbs/stream/jp/mtv/stream-output.m3u8?mode=hls
 
-#EXTINF:-1 tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/music_air.png",Music Air
-https://akariko-bck2.sankuria.sbs/stream/jp/music_air/stream-output.m3u8?mode=hls
+#DESACTIVADO##EXTINF:-1 tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/music_air.png",Music Air
+#DESACTIVADO#https://akariko-bck1.sankuria.sbs/stream/jp/music_air/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/music_on_tv.png",Music ON TV
 https://akariko-bck1.sankuria.sbs/stream/jp/music_on_tv/stream-output.m3u8?mode=hls
