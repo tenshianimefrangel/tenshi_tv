@@ -1,22 +1,20 @@
-# === Music ===
-
-#EXTINF:-1 tvg-id="TAKARAZUKASKYSTAGE.jp" tvg-name="Takarazuka Sky Stage" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/takarazuka_sky_stage.png",Takarazuka Sky Stage
+#EXTINF:-1 tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/takarazuka_sky_stage.png",Takarazuka Sky Stage
 https://akariko-bck1.sankuria.sbs/stream/jp/takarazuka_sky_stage/stream-output.m3u8?mode=hls
 
-#EXTINF:-1 tvg-id="スペースシャワーTV_jp" tvg-name="Space Shower TV (HD)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/space_shower_tv.png",Space Shower TV (HD)
+#EXTINF:-1 tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/space_shower_tv.png",Space Shower TV
 https://akariko-bck1.sankuria.sbs/stream/jp/space_shower_tv/stream-output.m3u8?mode=hls
 
-#EXTINF:-1 tvg-id="CH.640" tvg-name="MTV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/mtv.png",MTV
+#EXTINF:-1 tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/mtv.png",MTV
 https://akariko-bck1.sankuria.sbs/stream/jp/mtv/stream-output.m3u8?mode=hls
 
-#EXTINF:-1 tvg-id="ミュージック・エア_jp" tvg-name="Music Air" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/music_air.png",Music Air
-https://akariko-bck1.sankuria.sbs/stream/jp/music_air/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/music_air.png",Music Air
+https://akariko-bck2.sankuria.sbs/stream/jp/music_air/stream-output.m3u8?mode=hls
 
-#EXTINF:-1 tvg-id="CH.641" tvg-name="Music ON TV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/music_on_tv.png",Music ON TV
+#EXTINF:-1 tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/music_on_tv.png",Music ON TV
 https://akariko-bck1.sankuria.sbs/stream/jp/music_on_tv/stream-output.m3u8?mode=hls
 
-#EXTINF:-1 tvg-id="rch_85" tvg-name="Kayo Pops" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/kayo_pops.png",Kayo Pops
+#EXTINF:-1 tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/kayo_pops.png",Kayo Pops
 https://akariko-bck1.sankuria.sbs/stream/jp/kayo_pops/stream-output.m3u8?mode=hls
 
-#EXTINF:-1 tvg-id="CH.639" tvg-name="Music Japan TV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/music_japan_tv.png",Music Japan TV
+#EXTINF:-1 tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/music_japan_tv.png",Music Japan TV
 https://akariko-bck1.sankuria.sbs/stream/jp/music_japan_tv/stream-output.m3u8?mode=hls
