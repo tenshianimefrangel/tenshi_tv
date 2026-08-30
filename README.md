@@ -41,5 +41,5 @@ https://raw.githubusercontent.com/tenshianimefrangel/tenshi_tv/refs/heads/main/j
 Esta lista no es regional, así que no necesita una VPN para su acceso:
 
 ```text
-https://raw.githubusercontent.com/tenshianimefrangel/tenshi_tv/refs/heads/main/jp_musica.m3u
+https://raw.githubusercontent.com/tenshianimefrangel/tenshi_tv/refs/heads/main/jp_tokyo.m3u
 ```
