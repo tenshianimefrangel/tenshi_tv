@@ -40,3 +40,9 @@ https://raw.githubusercontent.com/tenshianimefrangel/tenshi_tv/refs/heads/main/j
 ```text
 https://raw.githubusercontent.com/tenshianimefrangel/tenshi_tv/refs/heads/main/jp_tokyo.m3u
 ```
+
+### 📺 CANALES DE KANSAI
+
+```text
+https://raw.githubusercontent.com/tenshianimefrangel/tenshi_tv/refs/heads/main/jp_kansai.m3u
+```
