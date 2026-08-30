@@ -3,6 +3,7 @@
 > [!WARNING]
 > **AVISO**
 > Estas listas pueden dejar de funcionar en cualquier momento, no me hago responsable de la perdida emocional que eso implique.
+>Si alguna lista no es accesible, trate de usar alguna VPN y configurela para acceder desde Japón.
 
 ### 👍REPRODUCTORE M3U RECOMENDADOS
 
@@ -30,15 +31,11 @@ https://github.com/dereferencex/prysm
 
 ### 📺 CANALES DE MUSICA
 
-Esta lista no es regional, así que no necesita una VPN para su acceso:
-
 ```text
 https://raw.githubusercontent.com/tenshianimefrangel/tenshi_tv/refs/heads/main/jp_musica.m3u
 ```
 
 ### 📺 CANALES DE TOKYO
-
-Esta lista no es regional, así que no necesita una VPN para su acceso:
 
 ```text
 https://raw.githubusercontent.com/tenshianimefrangel/tenshi_tv/refs/heads/main/jp_tokyo.m3u
