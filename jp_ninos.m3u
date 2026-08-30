@@ -1,0 +1,29 @@
+#EXTINF:-1 tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/animax.png",Animax
+https://akariko-bck1.sankuria.sbs/stream/jp/animax/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/disney_channel.png",Disney Channel
+https://akariko-bck1.sankuria.sbs/stream/jp/disney_channel/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/kids_staton.png",Kids Staton
+http://58.82.168.138:5002/cs07.m3u8?token=guoziyun&gid=cs07&channel=zhongying
+
+#EXTINF:-1 tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/cartoon_network.png",Cartoon Network
+https://akariko-bck1.sankuria.sbs/stream/jp/cartoon_network/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/at_x.png",AT-X
+https://akariko-bck1.sankuria.sbs/stream/jp/at-x/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/disney_junior.png",Disney Junior
+https://akariko-bck1.sankuria.sbs/stream/jp/disney_junior/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_73.png",Tezuka Productions TV
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-anime5-cmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_61.png",Shimajiro Channel
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rchannelbenessehlscmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_65.png",Kids
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-kids-english-cmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_kids.png",Animax free
+https://livetv.fastv.jp/channel_assembly/69608FB2725E0FA3B972/master.m3u8
