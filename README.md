@@ -35,6 +35,10 @@ https://github.com/dereferencex/prysm
 https://raw.githubusercontent.com/tenshianimefrangel/tenshi_tv/refs/heads/main/jp_musica.m3u
 ```
 
+```text
+https://raw.githubusercontent.com/tenshianimefrangel/tenshi_tv/refs/heads/main/thats_tv.m3u
+```
+
 ### 📺 CANALES DE TOKYO
 
 ```text
