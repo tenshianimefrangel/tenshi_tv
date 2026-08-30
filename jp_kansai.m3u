@@ -1,0 +1,23 @@
+#EXTINF:-1 tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_g_osaka.png",NHK G Osaka
+https://akariko-bck1.sankuria.sbs/stream/jp/nhk_g_osaka/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/sun.png",SUN TV
+https://akariko-bck1.sankuria.sbs/stream/jp/sun/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/mbs.png",Mainichi Broadcasting System
+https://akariko-bck1.sankuria.sbs/stream/jp/mbs/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/kbs.png",Korean Broadcasting System
+https://akariko-bck1.sankuria.sbs/stream/jp/kbs/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/abc.png",Asahi Broadcasting Corporation
+https://akariko-bck1.sankuria.sbs/stream/jp/abc/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tv_osaka.png",TV Osaka
+https://akariko-bck1.sankuria.sbs/stream/jp/tv_osaka/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/kansai_tv.png",Kansai TV
+https://akariko-bck1.sankuria.sbs/stream/jp/kansai_tv/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/ytv.png",Yomiuri TV
+https://akariko-bck1.sankuria.sbs/stream/jp/ytv/stream-output.m3u8?mode=hls
