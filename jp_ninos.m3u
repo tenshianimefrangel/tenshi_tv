@@ -1,20 +1,20 @@
 #DESACTIVADO##EXTINF:-1 tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/animax.png",Animax
-#DESACTIVADO#https://akariko-bck1.sankuria.sbs/stream/jp/animax/stream-output.m3u8?mode=hls
+#DESACTIVADO#https://haru.charandom.blog/stream/jp/animax/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/disney_channel.png",Disney Channel
-https://akariko-bck1.sankuria.sbs/stream/jp/disney_channel/stream-output.m3u8?mode=hls
+https://haru.charandom.blog/stream/jp/disney_channel/stream-output.m3u8?mode=hls
 
 #DESACTIVADO##EXTINF:-1 tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/kids_staton.png",Kids Staton
 #DESACTIVADO#http://58.82.168.138:5002/cs07.m3u8?token=guoziyun&gid=cs07&channel=zhongying
 
 #EXTINF:-1 tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/cartoon_network.png",Cartoon Network
-https://akariko-bck1.sankuria.sbs/stream/jp/cartoon_network/stream-output.m3u8?mode=hls
+https://haru.charandom.blog/stream/jp/cartoon_network/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/at_x.png",AT-X
-https://akariko-bck1.sankuria.sbs/stream/jp/at-x/stream-output.m3u8?mode=hls
+https://haru.charandom.blog/stream/jp/at-x/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/disney_junior.png",Disney Junior
-https://akariko-bck1.sankuria.sbs/stream/jp/disney_junior/stream-output.m3u8?mode=hls
+https://haru.charandom.blog/stream/jp/disney_junior/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_73.png",Tezuka Productions TV
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-anime5-cmaf-rakutenjp/playlist.m3u8
