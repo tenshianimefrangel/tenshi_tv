@@ -1,0 +1,53 @@
+#EXTINF:-1 tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/ntv_news24.png",Nippon TV News 24
+https://haru.charandom.blog/stream/jp/ntv_news24/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tbs_news.png",Tokyo Broadcasting System News
+https://haru.charandom.blog/stream/jp/tbs_news/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bbc_news.png",British Broadcasting Company News
+https://haru.charandom.blog/stream/jp/bbc_news/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/cnnj.png",Cable News Network Japan
+https://haru.charandom.blog/stream/jp/cnnj/stream-output.m3u8?mode=hls
+
+#DESCONECTADO##EXTINF:-1 tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_47.png",日テレNEWS
+#DESCONECTADO#https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news1hlscmaf-rakutenjp/playlist.m3u8
+
+#DESCONECTADO##EXTINF:-1 tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_108.png",FNNプライムオンライン
+#DESCONECTADO#https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news4-cmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_115.png",Mainichi Broadcasting System News
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news5-cmaf-rakutenjp/playlist.m3u8
+
+#DESCONECTADO##EXTINF:-1 tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_101.png",日テレNEWSセレクト
+#DESCONECTADO#https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-ntv-newsselect-cmaf-rakutenjp/playlist.m3u8
+
+#DESCONECTADO##EXTINF:-1 tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_56.png",共同通信News
+#DESCONECTADO#https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news3hlscmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/newsworld.png",News World
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-newsworld-rakutenjp/playlist.m3u8
+
+#DESCONECTADO##EXTINF:-1 tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_54.png",オリコンニュース
+#DESCONECTADO#https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news2cmafhls-rakutenjp/playlist.m3u8
+
+#DESCONECTADO##EXTINF:-1 tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/stock_voice.png",STOCK VOICE
+#DESCONECTADO#https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-stockvoice-cmaf-rakutenjp/playlist.m3u8
+
+#DESCONECTADO##EXTINF:-1 tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bloomberg_tv.png",Bloomberg TV+
+#DESCONECTADO#https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01601-bloomberg-bloombergplus-hls-rakutenjp/playlist.m3u8
+
+#DESCONECTADO##EXTINF:-1 tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/euronews.png",Euronews
+#DESCONECTADO#https://cdn-apne1.tsv2.amagi.tv/linear/amg00882-euronewssa-euronewsengjp-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/reuters_60.png",Reuters 60
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00453-reuters-reuters-hls-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_busns.png",Business Premium (FAST)
+https://livetv.fastv.jp/channel_assembly/69607EBD725E0F65BEE4/master.m3u8
+
+#EXTINF:-1 tvg-name="エンタメニュース (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_entns.png",Entertainment News (FAST)
+https://livetv.fastv.jp/channel_assembly/6960899D64B80F9C740C/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_world_japan.png",NHK World Japan
+https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
