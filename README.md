@@ -56,3 +56,9 @@ https://raw.githubusercontent.com/tenshianimefrangel/tenshi_tv/refs/heads/main/j
 ```text
 https://raw.githubusercontent.com/tenshianimefrangel/tenshi_tv/refs/heads/main/jp_infantil.m3u
 ```
+
+### 📺 CANALES DE NOTICIAS
+
+```text
+https://raw.githubusercontent.com/tenshianimefrangel/tenshi_tv/refs/heads/main/jp_noticias.m3u
+```
