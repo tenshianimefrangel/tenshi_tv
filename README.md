@@ -3,7 +3,7 @@
 > [!WARNING]
 > **AVISO**
 > Estas listas pueden dejar de funcionar en cualquier momento, no me hago responsable de la perdida emocional que eso implique.
->Si alguna lista no es accesible, trate de usar alguna VPN y configurela para acceder desde Japón.
+> Si alguna lista no es accesible, trate de usar alguna VPN y configurela para acceder desde Japón.
 
 ### 👍REPRODUCTORE M3U RECOMENDADOS
 
@@ -49,4 +49,10 @@ https://raw.githubusercontent.com/tenshianimefrangel/tenshi_tv/refs/heads/main/j
 
 ```text
 https://raw.githubusercontent.com/tenshianimefrangel/tenshi_tv/refs/heads/main/jp_kansai.m3u
+```
+
+### 📺 CANALES INFANTILES
+
+```text
+https://raw.githubusercontent.com/tenshianimefrangel/tenshi_tv/refs/heads/main/jp_infantil.m3u
 ```
