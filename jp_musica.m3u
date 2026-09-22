@@ -7,8 +7,8 @@ https://haru.charandom.blog/stream/jp/space_shower_tv/stream-output.m3u8?mode=hl
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qY8wvHML/mtv.png",MTV
 https://haru.charandom.blog/stream/jp/mtv/stream-output.m3u8?mode=hls
 
-#DESACTIVADO##EXTINF:-1 tvg-logo="https://i.ibb.co/Fk86tbLg/music-air.png",Music Air
-#DESACTIVADO#https://haru.charandom.blog/stream/jp/music_air/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Fk86tbLg/music-air.png",Music Air
+https://haru.charandom.blog/stream/jp/music_air/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NgDS9Cy3/music-on-tv.png",Music ON TV
 https://haru.charandom.blog/stream/jp/music_on_tv/stream-output.m3u8?mode=hls
